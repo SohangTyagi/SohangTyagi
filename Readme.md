@@ -43,8 +43,8 @@ const sohang = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohangtyagi&show_icons=true&theme=radical&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohangtyagi&layout=compact&theme=radical&hide_border=true" height="170" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sohangtyagi&show_icons=true&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohangtyagi&layout=compact&theme=radical&hide_border=true" height="170" /> -->
 
 <img src="https://streak-stats.demolab.com?user=sohangtyagi&theme=radical&hide_border=true" />
 
